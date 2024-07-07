@@ -1,0 +1,4 @@
+apiai
+assemblyai
+Google-cloud-speech
+SpeechRecognition
